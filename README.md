@@ -1,2 +1,2 @@
 # DPL-License
-dpl-license.cf
+DPL-License.cf
